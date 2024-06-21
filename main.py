@@ -17,7 +17,7 @@ customtkinter.set_default_color_theme("green")
 
 janela = customtkinter.CTk()
 janela.geometry("400x600")
-janela.title("calculadora.ico")
+janela.title("Conversor de moedas")
 
 dic_conversoes_disponiveis = conversoes_disponiveis()
 
